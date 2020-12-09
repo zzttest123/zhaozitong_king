@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="851739e1-370c-4ebc-ba43-30b3b21147f0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +23,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="JupyterTrust" id="00135ca8-ccce-4671-89bd-3b8978c13b67" />
   <component name="ProjectId" id="1lHea3DsXtyZPNuO8Z2agIVEa76" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -179,17 +192,29 @@
       <updated>1607258503950</updated>
       <workItem from="1607258522652" duration="13786000" />
       <workItem from="1607355342381" duration="8215000" />
+      <workItem from="1607523670134" duration="201000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="159" key="FileChooserDialogImpl" timestamp="1607522849138">
+    <state x="517" y="159" key="FileChooserDialogImpl" timestamp="1607523850104">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="517" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607522849138" />
+    <state x="517" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607523850104" />
     <state width="1342" height="142" key="GridCell.Tab.0.bottom" timestamp="1607444920372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
