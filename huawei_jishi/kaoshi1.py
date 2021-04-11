@@ -19,3 +19,4 @@ else:
         max = max + d[-1-i]
 
     print(min+max)
+#测试增加注释
