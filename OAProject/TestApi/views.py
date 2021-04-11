@@ -101,6 +101,7 @@ def ztRegister(request):
                     else:
                         res['RSTCode'] = "0004"
                         res['RSTMsg'] =  "两次密码不一致"
+                        res['BizType'] =  "1"
         else:
             res['Status'] = "0"
             res['RSTCode'] = "9999"
